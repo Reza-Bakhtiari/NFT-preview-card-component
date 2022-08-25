@@ -29,6 +29,7 @@ body {
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
   margin-bottom: 50px;
+  box-shadow: 2px 2px 45.5px 6px hsl(230, 63%, 28%);
 }
 .card .card-img {
   display: flex;
@@ -49,7 +50,7 @@ body {
 .card .card-img .eye {
   text-align: center;
   position: absolute;
-  background-color: hsl(178, 100%, 50%);
+  background-color: hsl(178, 100%, 16%);
   padding: 5px;
   top: 55px;
   cursor: pointer;
